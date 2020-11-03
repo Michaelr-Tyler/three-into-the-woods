@@ -1,3 +1,5 @@
+## Three into the woods is an application I'm currently building to help Golfers keep score during their match as well find their handicap, see their progress, and challenge their friends.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
